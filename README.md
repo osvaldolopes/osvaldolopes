@@ -16,8 +16,8 @@ Here are some ideas to get you started:
  
  <div>
   <a href="https://github.com/osvaldolopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osvaldolopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldolopes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osvaldolopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldolopes&layout=compact&langs_count=7&theme=dark"/>
 </div> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dico-PHP" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
