@@ -41,5 +41,5 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   <a href="https://osvaldofilho.netlify.app" target="_blank"><img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" target="_blank"></a>
   <a href="mailto:osvaldo_filho@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
 
-  ![snake gif](https://github.com/osvaldolopes/osvaldolopes/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![snake gif](https://github.com/osvaldolopes/osvaldolopes/blob/output/github-contribution-grid-snake.svg) -->
 </div>
