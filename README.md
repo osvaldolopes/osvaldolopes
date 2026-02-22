@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 </div> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dico-PHP" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="Dico-Laravel" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">  
   <img align="center" alt="Dico-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
   <img align="center" alt="Dico-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dico-Js" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/888/888879.png">  
   <img align="center" alt="Dico-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dico-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
- <img align="center" alt="Dico-Laravel" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">  
+  <img align="center" alt="Dico-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div> 
  
  ##
